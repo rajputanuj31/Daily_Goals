@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.d323c837.chunk.css",
-  "main.js": "/static/js/main.90ff93a8.chunk.js",
-  "main.js.map": "/static/js/main.90ff93a8.chunk.js.map",
-  "static/js/1.a99c2639.chunk.js": "/static/js/1.a99c2639.chunk.js",
-  "static/js/1.a99c2639.chunk.js.map": "/static/js/1.a99c2639.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.d323c837.chunk.css.map": "/static/css/main.d323c837.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.80550e0dfdefc1c40f6abec7eab378a9.js": "/precache-manifest.80550e0dfdefc1c40f6abec7eab378a9.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "rajputanuj31.github.io/Daily_Goals/static/css/main.d323c837.chunk.css",
+  "main.js": "rajputanuj31.github.io/Daily_Goals/static/js/main.90ff93a8.chunk.js",
+  "main.js.map": "rajputanuj31.github.io/Daily_Goals/static/js/main.90ff93a8.chunk.js.map",
+  "static/js/1.a99c2639.chunk.js": "rajputanuj31.github.io/Daily_Goals/static/js/1.a99c2639.chunk.js",
+  "static/js/1.a99c2639.chunk.js.map": "rajputanuj31.github.io/Daily_Goals/static/js/1.a99c2639.chunk.js.map",
+  "runtime~main.js": "rajputanuj31.github.io/Daily_Goals/static/js/runtime~main.5b7ef99a.js",
+  "runtime~main.js.map": "rajputanuj31.github.io/Daily_Goals/static/js/runtime~main.5b7ef99a.js.map",
+  "static/css/main.d323c837.chunk.css.map": "rajputanuj31.github.io/Daily_Goals/static/css/main.d323c837.chunk.css.map",
+  "index.html": "rajputanuj31.github.io/Daily_Goals/index.html",
+  "precache-manifest.95bae3dec0030666f475f1a74bd85d8c.js": "rajputanuj31.github.io/Daily_Goals/precache-manifest.95bae3dec0030666f475f1a74bd85d8c.js",
+  "service-worker.js": "rajputanuj31.github.io/Daily_Goals/service-worker.js"
 }
