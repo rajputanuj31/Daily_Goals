@@ -1,13 +1,13 @@
 {
-  "main.css": "rajputanuj31.github.io/Daily_Goals/static/css/main.d323c837.chunk.css",
-  "main.js": "rajputanuj31.github.io/Daily_Goals/static/js/main.90ff93a8.chunk.js",
-  "main.js.map": "rajputanuj31.github.io/Daily_Goals/static/js/main.90ff93a8.chunk.js.map",
-  "static/js/1.a99c2639.chunk.js": "rajputanuj31.github.io/Daily_Goals/static/js/1.a99c2639.chunk.js",
-  "static/js/1.a99c2639.chunk.js.map": "rajputanuj31.github.io/Daily_Goals/static/js/1.a99c2639.chunk.js.map",
-  "runtime~main.js": "rajputanuj31.github.io/Daily_Goals/static/js/runtime~main.5b7ef99a.js",
-  "runtime~main.js.map": "rajputanuj31.github.io/Daily_Goals/static/js/runtime~main.5b7ef99a.js.map",
-  "static/css/main.d323c837.chunk.css.map": "rajputanuj31.github.io/Daily_Goals/static/css/main.d323c837.chunk.css.map",
-  "index.html": "rajputanuj31.github.io/Daily_Goals/index.html",
-  "precache-manifest.95bae3dec0030666f475f1a74bd85d8c.js": "rajputanuj31.github.io/Daily_Goals/precache-manifest.95bae3dec0030666f475f1a74bd85d8c.js",
-  "service-worker.js": "rajputanuj31.github.io/Daily_Goals/service-worker.js"
+  "main.css": "/Daily_Goals/static/css/main.d323c837.chunk.css",
+  "main.js": "/Daily_Goals/static/js/main.90ff93a8.chunk.js",
+  "main.js.map": "/Daily_Goals/static/js/main.90ff93a8.chunk.js.map",
+  "static/js/1.a99c2639.chunk.js": "/Daily_Goals/static/js/1.a99c2639.chunk.js",
+  "static/js/1.a99c2639.chunk.js.map": "/Daily_Goals/static/js/1.a99c2639.chunk.js.map",
+  "runtime~main.js": "/Daily_Goals/static/js/runtime~main.271c0671.js",
+  "runtime~main.js.map": "/Daily_Goals/static/js/runtime~main.271c0671.js.map",
+  "static/css/main.d323c837.chunk.css.map": "/Daily_Goals/static/css/main.d323c837.chunk.css.map",
+  "index.html": "/Daily_Goals/index.html",
+  "precache-manifest.f02fefbcd11a37a68b39566cc0663b51.js": "/Daily_Goals/precache-manifest.f02fefbcd11a37a68b39566cc0663b51.js",
+  "service-worker.js": "/Daily_Goals/service-worker.js"
 }

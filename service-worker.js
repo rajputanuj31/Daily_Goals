@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "rajputanuj31.github.io/Daily_Goals/precache-manifest.95bae3dec0030666f475f1a74bd85d8c.js"
+  "/Daily_Goals/precache-manifest.f02fefbcd11a37a68b39566cc0663b51.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("rajputanuj31.github.io/Daily_Goals/index.html", {
+workbox.routing.registerNavigationRoute("/Daily_Goals/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
